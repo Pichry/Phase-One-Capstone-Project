@@ -321,7 +321,8 @@ Provides the menu-driven user interface.
 ## License
 
 Author 
-Sbato Clesence Niyirema 
+--------
+Sabato Clesence Niyirema 
 ----------------------
 ### good vibes kills bugs 
 ## Contact
