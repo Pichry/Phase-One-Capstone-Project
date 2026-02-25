@@ -165,8 +165,8 @@ The system uses custom exceptions for business logic validation:
 
 ### students.txt
 ```
-550e8400-e29b-41d4-a716-446655440000|John Doe|john@email.com|555-0001|Computer Science|3.75
-550e8400-e29b-41d4-a716-446655440001|Jane Smith|jane@email.com|555-0002|Engineering|3.45
+550e8400-e29b-41d4-a716-446655440000|clesence ser|clesence@email.com|555-0001|Computer Science|3.75
+550e8400-e29b-41d4-a716-446655440001|henry hamble|henrye@email.com|555-0002|Engineering|3.45
 ```
 
 ### courses.txt
@@ -320,8 +320,9 @@ Provides the menu-driven user interface.
 
 ## License
 
-Educational project - Free to use and modify.
-
+Author 
+Sbato Clesence Niyirema 
+good vibes kills bugs 
 ## Contact
 
 For questions or issues, please refer to the project documentation or contact the development team.
