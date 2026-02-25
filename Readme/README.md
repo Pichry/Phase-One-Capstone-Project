@@ -322,7 +322,8 @@ Provides the menu-driven user interface.
 
 Author 
 Sbato Clesence Niyirema 
-good vibes kills bugs 
+----------------------
+### good vibes kills bugs 
 ## Contact
 
 For questions or issues, please refer to the project documentation or contact the development team.
